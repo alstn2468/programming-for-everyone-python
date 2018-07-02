@@ -53,10 +53,18 @@
 
 
 #### CHAPTER 3: 조건부 실행
-- 조건문(if else)
-- 조건문(elif)과 예외처리(try, except)
-- <실습> 조건문(if, else) 활용
-- <실습> 예외처리(try, except)를 이용한 에러 해결
+- 조건문(if else)<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/1.md)
+ / (2018년 7월 3일)
+- 조건문(elif)과 예외처리(try, except)<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/1.md)
+ / (2018년 7월 3일)
+- <실습> 조건문(if, else) 활용<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/Practice_1.py)
+ / (2018년 7월 3일)
+- <실습> 예외처리(try, except)를 이용한 에러 해결<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/Practice_2.py)
+ / (2018년 7월 3일)
 - Chapter3: 퀴즈 자가학습
 
 
