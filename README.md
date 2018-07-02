@@ -25,7 +25,11 @@
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.1/2.md)
  / (2018년 7월 2일)
 - 언어로써 파이썬
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.1/3.md)
+ / (2018년 7월 2일)
 - 예약어, 순차문, 조건문 및 반복문
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.1/4.md)
+ / (2018년 7월 2일)
 - <실습> Hello World 출력하기
 - Chapter 1: 퀴즈 자가학습
 
