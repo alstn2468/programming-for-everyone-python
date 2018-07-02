@@ -4,11 +4,10 @@
 -------------------------------
 
 
-## Naver Data Science Competition<br/>스터디 내용 정리
+## Naver Data Science Competition<br/>스터디 내용 정리<br/>
 
 
-### 강의 목록
-- - -
+## 강의 목록
 
 #### 모두를 위한 파이썬, 학습 가이드
 - 학습을 위한 가이드
