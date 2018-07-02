@@ -18,7 +18,9 @@
 
 
 #### CHAPTER 1: 소개
-- 강의소개 - 프로그래밍을 왜 할까? [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.1/1.md)
+- 강의소개 - 프로그래밍을 왜 할까?<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.1/1.md)
+ / (2018년 7월 2일)
 - 컴퓨터의 내부 구조
 - 언어로써 파이썬
 - 예약어, 순차문, 조건문 및 반복문
