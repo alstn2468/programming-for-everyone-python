@@ -57,7 +57,7 @@
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/1.md)
  / (2018년 7월 3일)
 - 조건문(elif)과 예외처리(try, except)<br/>
-[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/1.md)
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/2.md)
  / (2018년 7월 3일)
 - <실습> 조건문(if, else) 활용<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.3/Practice_1.py)
