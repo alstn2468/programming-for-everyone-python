@@ -37,10 +37,18 @@
 
 
 #### CHAPTER 2: 변수, 표현식 및 코드
-- 변수, 표현식, 문장
-- 연산자, 데이터 타입 및 타입 변환
-- <실습> 프롬프트에서 사용자 입력받기
-- <실습> 프롬프트에서 입력받아 계산하기
+- 변수, 표현식, 문장<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.2/1.md)
+ / (2018년 7월 3일)
+- 연산자, 데이터 타입 및 타입 변환<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.2/2.md)
+ / (2018년 7월 3일)
+- <실습> 프롬프트에서 사용자 입력받기<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.2/Practice_1.py)
+ / (2018년 7월 3일)
+- <실습> 프롬프트에서 입력받아 계산하기<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.2/Practice_2.py)
+ / (2018년 7월 3일)
 - Chapter2: 퀴즈 자가학습
 
 
