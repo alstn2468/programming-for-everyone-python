@@ -91,5 +91,5 @@
 
 
 #### 강의 링크
-- [[링크]](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
-- [[PY4e]](https://www.py4e.com/)
+- [링크](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
+- [PY4E](https://www.py4e.com/)
