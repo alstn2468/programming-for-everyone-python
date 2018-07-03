@@ -88,3 +88,8 @@
 - 반복문 응용
 - <실습> 반복문
 - Chapter5: 퀴즈 자가학습
+
+
+#### 강의 링크
+- [[링크]](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
+- [[PY4e]](https://www.py4e.com/)
