@@ -69,9 +69,15 @@
 
 
 #### CHAPTER 4: 함수
-- 함수의 개념
-- 함수 만들기
-- <실습> 함수 만들기
+- 함수의 개념<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.4/1.md)
+ / (2018년 7월 4일)
+- 함수 만들기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.4/2.md)
+ / (2018년 7월 4일)
+- <실습> 함수 만들기<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.4/Practice_1.py)
+ / (2018년 7월 4일)
 - Chapter4: 퀴즈 자가학습
 
 
