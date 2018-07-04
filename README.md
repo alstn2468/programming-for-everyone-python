@@ -82,11 +82,21 @@
 
 
 #### CHAPTER 5: 루프와 반복문
-- while 루프
-- for 루프
-- 반복문
-- 반복문 응용
-- <실습> 반복문
+- while 루프<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/1.md)
+ / (2018년 7월 4일)
+- for 루프<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/2.md)
+ / (2018년 7월 4일)
+- 반복문<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/3.md)
+ / (2018년 7월 4일)
+- 반복문 응용<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/4.md)
+ / (2018년 7월 4일)
+- <실습> 반복문<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/Practice_1.py)
+ / (2018년 7월 4일)
 - Chapter5: 퀴즈 자가학습
 
 
