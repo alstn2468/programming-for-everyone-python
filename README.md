@@ -87,16 +87,16 @@
  / (2018년 7월 4일)
 - for 루프<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/2.md)
- / (2018년 7월 5일)
+ / (2018년 7월 6일)
 - 반복문<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/3.md)
- / (2018년 7월 5일)
+ / (2018년 7월 6일)
 - 반복문 응용<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/4.md)
- / (2018년 7월 5일)
+ / (2018년 7월 6일)
 - <실습> 반복문<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.5/Practice_1.py)
- / (2018년 7월 5일)
+ / (2018년 7월 6일)
 - Chapter5: 퀴즈 자가학습
 
 
