@@ -100,6 +100,47 @@
 - Chapter5: 퀴즈 자가학습
 
 
+#### CHAPTER 6: 문자열
+- 문자열<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/1.md)
+ / (2018년 7월 6일)
+- 문자열을 다루는 다양한 방법들<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/2.md)
+ / (2018년 7월 6일)
+- <실습> 문자열 파싱<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/Practice_1.py)
+ / (2018년 7월 6일)
+- Chapter6: 퀴즈 자가학습
+
+
+#### CHAPTER 7: 파일
+- 파일 열기
+- 파일 읽기
+- <실습> 파일 열고 읽기
+- Chapter7: 퀴즈 자가학습
+
+
+#### CHAPTER 8: 리스트
+- 리스트의 개념 및 특징
+- 리스트 활용하기
+- 리스트를 활용해 원하는 값 추출하기
+- <실습> 문자열, 파일, 리스트 및 Guardian Pattern
+- Chapter8: 퀴즈 자가학습
+
+
+#### CHAPTER 9: 딕셔너리
+- 딕셔너리 개념 및 특징
+- 딕셔너리를 활용한 데이터 빈도수 측정
+- 딕셔너리 활용하기
+- <실습> 딕셔너리를 활용한 데이터 빈도수 측정
+
+
+#### CHAPTER 10: 튜플
+- 튜플 개념 및 특징
+- 튜플을 이용한 딕셔너리 정렬
+- <실습> 튜플을 이용한 딕셔너리 정렬
+
+
 #### 강의 링크
 - [링크](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
 - [PY4E](https://www.py4e.com/)
