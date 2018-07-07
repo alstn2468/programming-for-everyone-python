@@ -114,9 +114,15 @@
 
 
 #### CHAPTER 7: 파일
-- 파일 열기
-- 파일 읽기
-- <실습> 파일 열고 읽기
+- 파일 열기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.7/1.md)
+ / (2018년 7월 8일)
+- 파일 읽기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.7/2.md)
+ / (2018년 7월 8일)
+- <실습> 파일 열고 읽기<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.7/Practice_1.py)
+ / (2018년 7월 8일)
 - Chapter7: 퀴즈 자가학습
 
 
