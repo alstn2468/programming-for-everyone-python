@@ -103,13 +103,13 @@
 #### CHAPTER 6: 문자열
 - 문자열<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/1.md)
- / (2018년 7월 6일)
+ / (2018년 7월 7일)
 - 문자열을 다루는 다양한 방법들<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/2.md)
- / (2018년 7월 6일)
+ / (2018년 7월 7일)
 - <실습> 문자열 파싱<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.6/Practice_1.py)
- / (2018년 7월 6일)
+ / (2018년 7월 7일)
 - Chapter6: 퀴즈 자가학습
 
 
