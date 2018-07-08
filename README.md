@@ -127,10 +127,18 @@
 
 
 #### CHAPTER 8: 리스트
-- 리스트의 개념 및 특징
-- 리스트 활용하기
-- 리스트를 활용해 원하는 값 추출하기
-- <실습> 문자열, 파일, 리스트 및 Guardian Pattern
+- 리스트의 개념 및 특징<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.8/1.md)
+ / (2018년 7월 9일)
+- 리스트 활용하기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.8/2.md)
+ / (2018년 7월 9일)
+- 리스트를 활용해 원하는 값 추출하기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.8/3.md)
+ / (2018년 7월 9일)
+- <실습> 문자열, 파일, 리스트 및 Guardian Pattern<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.8/Practice_1.py)
+ / (2018년 7월 9일)
 - Chapter8: 퀴즈 자가학습
 
 
