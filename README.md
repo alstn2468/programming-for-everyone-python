@@ -143,16 +143,30 @@
 
 
 #### CHAPTER 9: 딕셔너리
-- 딕셔너리 개념 및 특징
-- 딕셔너리를 활용한 데이터 빈도수 측정
-- 딕셔너리 활용하기
+- 딕셔너리 개념 및 특징<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/1.md)
+ / (2018년 7월 10일)
+- 딕셔너리를 활용한 데이터 빈도수 측정<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/2.md)
+ / (2018년 7월 10일)
+- 딕셔너리 활용하기<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/3.md)
+ / (2018년 7월 10일)<br/>
+ [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/Practice_1.py)
+  / (2018년 7월 10일)
 - <실습> 딕셔너리를 활용한 데이터 빈도수 측정
 
 
 #### CHAPTER 10: 튜플
-- 튜플 개념 및 특징
-- 튜플을 이용한 딕셔너리 정렬
-- <실습> 튜플을 이용한 딕셔너리 정렬
+- 튜플 개념 및 특징<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/1.md)
+ / (2018년 7월 10일)
+- 튜플을 이용한 딕셔너리 정렬<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/2.md)
+ / (2018년 7월 10일)
+- <실습> 튜플을 이용한 딕셔너리 정렬<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/Practice_1.py)
+ / (2018년 7월 10일)
 
 
 #### 강의 링크
