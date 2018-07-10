@@ -151,10 +151,10 @@
  / (2018년 7월 10일)
 - 딕셔너리 활용하기<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/3.md)
- / (2018년 7월 10일)<br/>
- [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/Practice_1.py)
-  / (2018년 7월 10일)
-- <실습> 딕셔너리를 활용한 데이터 빈도수 측정
+ / (2018년 7월 10일)
+- <실습> 딕셔너리를 활용한 데이터 빈도수 측정<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.9/Practice_1.py)
+ / (2018년 7월 10일)
 
 
 #### CHAPTER 10: 튜플
