@@ -160,13 +160,13 @@
 #### CHAPTER 10: 튜플
 - 튜플 개념 및 특징<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/1.md)
- / (2018년 7월 10일)
+ / (2018년 7월 11일)
 - 튜플을 이용한 딕셔너리 정렬<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/2.md)
- / (2018년 7월 10일)
+ / (2018년 7월 11일)
 - <실습> 튜플을 이용한 딕셔너리 정렬<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.10/Practice_1.py)
- / (2018년 7월 10일)
+ / (2018년 7월 11일)
 
 
 #### 강의 링크
