@@ -169,6 +169,38 @@
  / (2018년 7월 11일)
 
 
+### CHAPTER 16 : 데이터 검색과 시각화
+- 데이터 검색과 시각화<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/1.md)
+ / (2018년 7월 12일)
+- <실습> Geodata<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_1.py)
+ / (2018년 7월 12일)
+- 페이지 랭크<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/2.md)
+ / (2018년 7월 11일)
+- <실습> 페이지 랭크 - 스파이더링<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2.py)
+ / (2018년 7월 12일)
+- <실습> 페이지 랭크 - 연산<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3.py)
+ / (2018년 7월 12일)
+- <실습> 페이지 랭크 - 시각화<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_4.py)
+ / (2018년 7월 12일)
+- 메일링 리스트 데이터 분석 및 시각화<br/>
+[[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/3.md)
+ / (2018년 7월 11일)
+- <실습> Gmane 과 Mail - 조회<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_5.py)
+ / (2018년 7월 12일)
+- <실습> Gmane 과 Mail - 모델<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_6.py)
+ / (2018년 7월 12일)
+- <실습> Gmane 과 Mail - 시각화<br/>
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_7.py)
+ / (2018년 7월 12일)
+
 #### 강의 링크
 - [링크](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
 - [PY4E](https://www.py4e.com/)
