@@ -174,31 +174,31 @@
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/1.md)
  / (2018년 7월 13일)
 - <실습> Geodata<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_1.py)
- / (2018년 7월 13일)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_1_Geodata)
+ / (2018년 7월 15일)
 - 페이지 랭크<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/2.md)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - <실습> 페이지 랭크 - 스파이더링<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2.py)
- / (2018년 7월 일)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2_Pagerank)
+ / (2018년 7월 15일)
 - <실습> 페이지 랭크 - 연산<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3.py)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2Practice_2_Pagerank)
  / (2018년 7월 일)
 - <실습> 페이지 랭크 - 시각화<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_4.py)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2Practice_2_Pagerank)
  / (2018년 7월 일)
 - 메일링 리스트 데이터 분석 및 시각화<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/3.md)
  / (2018년 7월 일)
 - <실습> Gmane 과 Mail - 조회<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_5.py)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
  / (2018년 7월 일)
 - <실습> Gmane 과 Mail - 모델<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_6.py)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
  / (2018년 7월 일)
 - <실습> Gmane 과 Mail - 시각화<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_7.py)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
  / (2018년 7월 일)
 
 #### 강의 링크
