@@ -169,7 +169,7 @@
  / (2018년 7월 11일)
 
 
-### CHAPTER 16 : 데이터 검색과 시각화
+#### CHAPTER 16 : 데이터 검색과 시각화
 - 데이터 검색과 시각화<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/1.md)
  / (2018년 7월 13일)
