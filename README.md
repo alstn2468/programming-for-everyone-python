@@ -184,22 +184,22 @@
  / (2018년 7월 15일)
 - <실습> 페이지 랭크 - 연산<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2_Pagerank)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - <실습> 페이지 랭크 - 시각화<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_2_Pagerank)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - 메일링 리스트 데이터 분석 및 시각화<br/>
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/3.md)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 조회<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 모델<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 시각화<br/>
 [[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
- / (2018년 7월 일)
+ / (2018년 7월 15일)
 
 #### 강의 링크
 - [링크](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
