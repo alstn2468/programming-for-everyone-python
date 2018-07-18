@@ -16,6 +16,8 @@
 *.pyc 		binary
 *.pyd		binary
 *.pyo 		binary
+*.js        binary
+*.html      binary
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
