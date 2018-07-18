@@ -1,2 +1,2 @@
-*.js linguist-vendored
-*.html linguist-vendored
+Chapter.16/*.js linguist-vendored
+Chapter.16/*.html linguist-vendored
