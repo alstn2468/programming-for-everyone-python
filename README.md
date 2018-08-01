@@ -192,13 +192,13 @@
 [[요약]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/3.md)
  / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 조회<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/tree/master/Chapter.16/Practice_3_Gmane)
  / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 모델<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/tree/master/Chapter.16/Practice_3_Gmane)
  / (2018년 7월 15일)
 - <실습> Gmane 과 Mail - 시각화<br/>
-[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/blob/master/Chapter.16/Practice_3_Gname)
+[[코드]](https://github.com/alstn2468/Programming_For_Everyone_Python/tree/master/Chapter.16/Practice_3_Gmane)
  / (2018년 7월 15일)
 
 #### 강의 링크
